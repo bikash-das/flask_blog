@@ -1,0 +1,8 @@
+virtual enviroment created:
+	python3 -m venv name_of_virtual_env
+
+To use the virtual enviroment:
+	source name_of_virtual_env/bin/activate
+
+After done.
+	deactivate 
