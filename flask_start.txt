@@ -6,3 +6,9 @@ To use the virtual enviroment:
 
 After done.
 	deactivate 
+
+pip3 install pytesseract 
+
+pip3 install opencv-python
+
+
